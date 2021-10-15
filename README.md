@@ -31,7 +31,7 @@ Many of the following projects are showcased on my [YouTube Channel](https://www
 * [limited-detail-engine](https://github.com/pikaju/limited-detail-engine), a software octree ray tracer written in Java.
 
 ## 🌌 Miscellaneous
-* [palanta](https://github.com/palanta/palanta/releases/tag/v1.0), a visual programming language for paleographers using the Vue.js-based [Quasar framework](https://quasar.dev/).
+* [palanta](https://github.com/palanta/palanta/releases/tag/v1.0), a visual programming language for [paleographers](https://en.wikipedia.org/wiki/Palaeography) using the Vue.js-based [Quasar framework](https://quasar.dev/).
 * [dynamic-wallpaper](https://github.com/pikaju/dynamic-wallpaper), a C++ software ray tracer generating beautiful procedural desktop wallpapers.
 * [protobuf-delphi](https://github.com/pikaju/protobuf-delphi), a [Protobuf](https://developers.google.com/protocol-buffers) runtime for [Delphi](https://www.embarcadero.com/de/products/delphi) and [Free Pascal](https://www.freepascal.org/).
 * [chess-bot](https://github.com/pikaju/chess-bot), a Java chess game with an AI opponent.
