@@ -12,7 +12,7 @@ Find some of my open-source contributions and hobby projects below.
 * [flutter-maps-launcher](https://github.com/pikaju/flutter-maps-launcher), a simple Flutter package to launch the platform's maps application.
 * [dart-json-patch](https://github.com/pikaju/dart-json-patch), a Dart utility package for the [IETF JSON Patch standard](https://datatracker.ietf.org/doc/html/rfc6902).
 * [password-strength](https://github.com/pikaju/password-strength), a password strength estimation utility package for Dart.
-* [dart-protoc-builder](https://github.com/pikaju/dart-protoc-builder), a build utility for streamlining the compilation of Protobuf to Dart.
+* [dart-protoc-builder](https://github.com/pikaju/dart-protoc-builder), a build utility for streamlining the compilation of [Protocol Buffers](https://developers.google.com/protocol-buffers) to Dart.
 
 ## <img src="https://www.typescriptlang.org/icons/icon-48x48.png?v=8944a05a8b601855de116c8a56d3b3ae" height="18" />&ensp;TypeScript
 * [duplex-json-rpc](https://github.com/pikaju/duplex-json-rpc), a transport layer independent [JSON-RPC](https://www.jsonrpc.org/specification) library with calls in both directions written in TypeScript.
