@@ -8,6 +8,7 @@ My name is Julien, I am a software engineer based in Hamburg, Germany. Here you 
 Find some of my open-source contributions and hobby projects below.
 
 ## <img src="https://dart.dev/assets/shared/dart/icon/64.png" height="18" />&ensp;Dart&ensp;&&ensp;<img src="https://static.cdnlogo.com/logos/f/30/flutter.svg" height="19" />&ensp;Flutter
+* [lyrebird](https://github.com/lyrebird-app/launcher), a visual editor for [intl](https://pub.dev/packages/intl) package localizations (Application Resource Bundle files).
 * [flutter-braintree](https://github.com/pikaju/flutter-braintree), a Flutter plugin wrapping the native [Braintree Mobile SDKs](https://developer.paypal.com/braintree/docs/reference/overview).
 * [flutter-maps-launcher](https://github.com/pikaju/flutter-maps-launcher), a simple Flutter package to launch the platform's maps application.
 * [dart-json-patch](https://github.com/pikaju/dart-json-patch), a Dart utility package for the [IETF JSON Patch standard](https://datatracker.ietf.org/doc/html/rfc6902).
