@@ -1,4 +1,4 @@
-### Hey, welcome to my profile! 👋
+### Hey, welcome to my profile!
 
 My name is Julien, I am a software engineer based in Hamburg, Germany. Here you can find some of my work.
 
